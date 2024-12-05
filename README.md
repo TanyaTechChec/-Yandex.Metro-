@@ -1,6 +1,6 @@
 # Яндекс.Метро (Мобильное приложение)
 
-[![Яндекс.Метро](https://upload.wikimedia.org/wikipedia/commons/4/47/Yandex_logo.svg)](https://yandex.ru/metro/moscow?focus=0&scheme_id=sc34974011)
+[![Яндекс.Метро]([https://upload.wikimedia.org/wikipedia/commons/4/47/Yandex_logo.svg](https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Yandex_Metro_wordmark.svg))](https://yandex.ru/metro/moscow?focus=0&scheme_id=sc34974011)
 
 ## Описание проекта
 
