@@ -31,13 +31,13 @@
 ## Тестирование
 
 ### 1. Техники тест-дизайна
-
-- **Чек-листы**: Использованы для покрытия всех требований, связанных с изменениями в коде.
-  - [Чек-лист тестирования](https://drive.google.com/file/d/1dsaOVM14Yz9yLyPCm3QRTh3vM5F8QKkC/view?usp=drive_link)
-  
-- **Попарное тестирование**: Описание техники и примеры.
+**Попарное тестирование**: Описание техники и примеры.
   - [Таблица принятия решений](https://docs.google.com/spreadsheets/d/1P6sFuWP1RpQlTRn9Rm41tZF3-Lztj6XSVxYVPUahoF8/edit#gid=0)
   - [Попарное тестирование](https://docs.google.com/spreadsheets/d/1P6sFuWP1RpQlTRn9Rm41tZF3-Lztj6XSVxYVPUahoF8/edit#gid=1703116759)
+
+**Чек-листы**: Использованы для покрытия всех требований, связанных с изменениями в коде.
+  - [Чек-лист тестирования](https://drive.google.com/file/d/1dsaOVM14Yz9yLyPCm3QRTh3vM5F8QKkC/view?usp=drive_link)
+  - [Тест-кейсы](https://drive.google.com/file/d/1m9iauwYOV5kZ1lH1V3c2SPCtoTO7XOLl/view?usp=drive_link)
   
 - **Регрессионное тестирование**: Оценка функциональности после внесения изменений.
 
